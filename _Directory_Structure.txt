@@ -1,0 +1,30 @@
+ramnath-catrace/
+│
+├── index.php             # Main homepage
+├── menu.php              # Our Menu page
+├── packages.php          # Event Packages
+├── book.php              # Booking form
+├── team.php              # Our Team
+├── gallery.php           # Gallery
+├── testimonials.php      # Testimonials
+├── contact.php           # Contact page
+│
+├── admin/                # Admin Panel (Optional for later)
+│   ├── login.php
+│   └── dashboard.php
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css     # Custom styles
+│   ├── js/
+│   │   └── script.js     # JS (like form validation)
+│   ├── images/
+│   │   └── (all images here)
+│   └──
+│
+├── includes/
+│   ├── header.php        # Common header (nav)
+│   ├── footer.php        # Common footer
+│   └── db.php            # Database connection (for later)
+│
+└── README.md             # Optional: Project description
